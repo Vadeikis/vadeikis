@@ -7,10 +7,10 @@
         I am currently studying in GoIT to become a FullStack developer.<br>
        I will be glad to cooperate and help. I will be glad to meet new people and create new projects.<br>
     </i><br> 
-    <a href="https://www.linkedin.com/in/pavlius-vadeikis-90aaa4271/">
+    <a href="https://www.linkedin.com/in/pavlius-vadeikis-90aaa4271/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-brightgreen" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/one_day_kiss/">
+    <a href="https://www.instagram.com/one_day_kiss/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-brightgreen" alt="Instagram">
     </a>
 </p>
